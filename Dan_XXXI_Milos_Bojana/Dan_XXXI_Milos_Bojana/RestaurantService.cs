@@ -10,7 +10,20 @@ namespace Dan_XXXI_Milos_Bojana
     {
         public List<tblOrder> GetAllOrders()
         {
-            
+            try
+            {
+                using (RestaurantEntities context = new RestaurantEntities())
+                {
+                    List<tblOrder> list = new List<tblOrder>();
+                    list = (from x in context.tblOrders select x).ToList();
+                    return list;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine("Exception" + ex.Message.ToString());
+                return null;
+            }
         }
 
 
@@ -22,7 +35,22 @@ namespace Dan_XXXI_Milos_Bojana
 
         public tblOrder EditOrder(tblOrder order)
         {
-            
+            try
+            {
+                using (RestaurantEntities context = new RestaurantEntities())
+                {
+                    tblOrder orderToEdit = (from o in context.tblOrders where o.OrderID == order.OrderID select o).First();
+                    orderToEdit.Date = order.Date;
+                    orderToEdit.MenuItem = order.MenuItem;
+                    context.SaveChanges();
+                    return order;
+                }
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine("Exception" + ex.Message.ToString());
+                return null;
+            }
         }
 
         public void DeleteOrder(int orderId)
