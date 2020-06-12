@@ -1,0 +1,12 @@
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\Dan_XXXI_Milos_Bojana.exe.config
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\Dan_XXXI_Milos_Bojana.exe
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\Dan_XXXI_Milos_Bojana.pdb
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\EntityFramework.dll
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\EntityFramework.xml
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\obj\Debug\Dan_XXXI_Milos_Bojana.csprojAssemblyReference.cache
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\obj\Debug\Dan_XXXI_Milos_Bojana.csproj.CoreCompileInputs.cache
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\obj\Debug\Dan_XXXI_Milos_Bojana.csproj.CopyComplete
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\obj\Debug\Dan_XXXI_Milos_Bojana.exe
+C:\Users\panonit\Documents\GitHub\RestaurantCRUD\Dan_XXXI_Milos_Bojana\Dan_XXXI_Milos_Bojana\obj\Debug\Dan_XXXI_Milos_Bojana.pdb

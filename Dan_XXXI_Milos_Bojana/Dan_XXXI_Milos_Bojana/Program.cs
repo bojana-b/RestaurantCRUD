@@ -11,8 +11,6 @@ namespace Dan_XXXI_Milos_Bojana
         static void Main(string[] args)
         {
             Menu.StartMenu();
-            List<tblOrder> tblOrders = new List<tblOrder>();
-            
             Console.ReadLine();
         }
     }
